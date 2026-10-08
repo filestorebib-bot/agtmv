@@ -1,0 +1,5 @@
+# Robots.txt for Triveni Secondary School - Department of Plant Science
+User-agent: *
+Allow: /
+
+Sitemap: https://trivenischool.edu.np/sitemap.xml
