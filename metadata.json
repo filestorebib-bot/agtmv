@@ -1,0 +1,6 @@
+{
+  "name": "Triveni Secondary School — Department of Plant Science",
+  "description": "Official portal of Triveni Secondary School, Department of Plant Science in Katari-4, Udayapur, Koshi Province, Nepal. Providing technical secondary agricultural education, OJT, practical nursery training, and NEB curriculum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
